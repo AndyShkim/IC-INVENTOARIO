@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GENERATOR", "..\QR CODE GENERATOR\QR CODE GENERATOR\GENERATOR.csproj", "{583045E2-3FFD-494C-A5BE-9ACB19230C03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "READER", "..\..\..\Desktop\ReadQRcode\ReadQRcode\READER.csproj", "{746D337D-C8A2-46F0-97C7-DDE02E5FBCC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{583045E2-3FFD-494C-A5BE-9ACB19230C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583045E2-3FFD-494C-A5BE-9ACB19230C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583045E2-3FFD-494C-A5BE-9ACB19230C03}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{583045E2-3FFD-494C-A5BE-9ACB19230C03}.Debug|x86.Build.0 = Debug|Any CPU
+		{583045E2-3FFD-494C-A5BE-9ACB19230C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583045E2-3FFD-494C-A5BE-9ACB19230C03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{583045E2-3FFD-494C-A5BE-9ACB19230C03}.Release|x86.ActiveCfg = Release|Any CPU
+		{583045E2-3FFD-494C-A5BE-9ACB19230C03}.Release|x86.Build.0 = Release|Any CPU
+		{746D337D-C8A2-46F0-97C7-DDE02E5FBCC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746D337D-C8A2-46F0-97C7-DDE02E5FBCC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746D337D-C8A2-46F0-97C7-DDE02E5FBCC0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{746D337D-C8A2-46F0-97C7-DDE02E5FBCC0}.Debug|x86.Build.0 = Debug|Any CPU
+		{746D337D-C8A2-46F0-97C7-DDE02E5FBCC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746D337D-C8A2-46F0-97C7-DDE02E5FBCC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746D337D-C8A2-46F0-97C7-DDE02E5FBCC0}.Release|x86.ActiveCfg = Release|Any CPU
+		{746D337D-C8A2-46F0-97C7-DDE02E5FBCC0}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75469B97-2801-45B3-8310-B9302CFD769B}
+	EndGlobalSection
+EndGlobal

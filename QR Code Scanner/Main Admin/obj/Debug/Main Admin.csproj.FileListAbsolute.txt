@@ -1,0 +1,16 @@
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Main Admin\bin\Debug\Main Admin.exe.config
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Main Admin\bin\Debug\Main Admin.exe
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Main Admin\bin\Debug\Main Admin.pdb
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Main Admin\bin\Debug\QR Code Scanner.exe
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Main Admin\bin\Debug\WebCam_Capture.dll
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Main Admin\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Main Admin\bin\Debug\QR Code Scanner.pdb
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Main Admin\bin\Debug\QR Code Scanner.xml
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Main Admin\obj\Debug\Main Admin.csprojAssemblyReference.cache
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Main Admin\obj\Debug\Main_Admin.MainAdminForm.resources
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Main Admin\obj\Debug\Main_Admin.Properties.Resources.resources
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Main Admin\obj\Debug\Main Admin.csproj.GenerateResource.cache
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Main Admin\obj\Debug\Main Admin.csproj.CoreCompileInputs.cache
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Main Admin\obj\Debug\Main Admin.csproj.CopyComplete
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Main Admin\obj\Debug\Main Admin.exe
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Main Admin\obj\Debug\Main Admin.pdb

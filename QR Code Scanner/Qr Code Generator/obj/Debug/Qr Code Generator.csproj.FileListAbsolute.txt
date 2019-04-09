@@ -1,0 +1,12 @@
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Qr Code Generator\obj\Debug\Qr Code Generator.csprojAssemblyReference.cache
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Qr Code Generator\obj\Debug\Qr_Code_Generator.Form1.resources
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Qr Code Generator\obj\Debug\Qr_Code_Generator.Properties.Resources.resources
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Qr Code Generator\obj\Debug\Qr Code Generator.csproj.GenerateResource.cache
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Qr Code Generator\obj\Debug\Qr Code Generator.csproj.CoreCompileInputs.cache
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Qr Code Generator\bin\Debug\Qr Code Generator.exe.config
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Qr Code Generator\bin\Debug\Qr Code Generator.exe
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Qr Code Generator\bin\Debug\Qr Code Generator.pdb
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Qr Code Generator\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Qr Code Generator\obj\Debug\Qr Code Generator.csproj.CopyComplete
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Qr Code Generator\obj\Debug\Qr Code Generator.exe
+C:\Users\nsdixonl\Downloads\QR Code Scanner\Qr Code Generator\obj\Debug\Qr Code Generator.pdb

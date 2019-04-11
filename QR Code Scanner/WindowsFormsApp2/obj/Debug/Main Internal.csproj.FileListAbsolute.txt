@@ -7,3 +7,10 @@ C:\Users\nsdixonl\Downloads\QR Code Scanner\WindowsFormsApp2\obj\Debug\Main Inte
 C:\Users\nsdixonl\Downloads\QR Code Scanner\WindowsFormsApp2\obj\Debug\Main Internal.csproj.CoreCompileInputs.cache
 C:\Users\nsdixonl\Downloads\QR Code Scanner\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 C:\Users\nsdixonl\Downloads\QR Code Scanner\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\QR Code Scanner\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\QR Code Scanner\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\QR Code Scanner\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\QR Code Scanner\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\QR Code Scanner\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\QR Code Scanner\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\QR Code Scanner\WindowsFormsApp2\obj\Debug\Main Internal.csproj.GenerateResource.Cache

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.489
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "QR Code Scanner", "QR Code Scanner.vbproj", "{59C4E242-607C-4F5E-92E1-82074CD9B5DB}"
 EndProject
@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main Admin", "Main Admin\Ma
 	ProjectSection(ProjectDependencies) = postProject
 		{59C4E242-607C-4F5E-92E1-82074CD9B5DB} = {59C4E242-607C-4F5E-92E1-82074CD9B5DB}
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QR interface", "..\WindowsFormsApplication1\QR interface.csproj", "{80B06FAA-1DEE-4A62-A912-16A85DDED652}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -46,6 +48,10 @@ Global
 		{656927CC-C3A7-40B6-84EA-98D799585E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{656927CC-C3A7-40B6-84EA-98D799585E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{656927CC-C3A7-40B6-84EA-98D799585E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80B06FAA-1DEE-4A62-A912-16A85DDED652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80B06FAA-1DEE-4A62-A912-16A85DDED652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80B06FAA-1DEE-4A62-A912-16A85DDED652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80B06FAA-1DEE-4A62-A912-16A85DDED652}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

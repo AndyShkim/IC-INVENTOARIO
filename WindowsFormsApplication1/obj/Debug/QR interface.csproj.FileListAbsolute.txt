@@ -1,0 +1,27 @@
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\bin\Debug\AForge.Controls.dll
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\bin\Debug\AForge.dll
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\bin\Debug\AForge.Imaging.dll
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\bin\Debug\AForge.Math.dll
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\bin\Debug\AForge.Video.dll
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\bin\Debug\AForge.Vision.dll
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\bin\Debug\AForge.xml
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\bin\Debug\AForge.Controls.xml
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\bin\Debug\AForge.Imaging.xml
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\bin\Debug\AForge.Math.xml
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\bin\Debug\AForge.Video.xml
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\bin\Debug\AForge.Vision.xml
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\obj\Debug\QR interface.csprojResolveAssemblyReference.cache
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Fm_datos.resources
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Fm_Lector.resources
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Fm_main.resources
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\obj\Debug\QR interface.csproj.GenerateResource.Cache
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\WindowsFormsApplication1\bin\Debug\zxing.dll

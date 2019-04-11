@@ -32,3 +32,13 @@ C:\Users\nsdixonl\Downloads\QR Code Scanner\obj\Debug\QR Code Scanner.exe
 C:\Users\nsdixonl\Downloads\QR Code Scanner\obj\Debug\QR Code Scanner.xml
 C:\Users\nsdixonl\Downloads\QR Code Scanner\obj\Debug\QR Code Scanner.pdb
 C:\Users\nsdixonl\Downloads\QR Code Scanner\obj\Debug\QR_Code_Scanner.ScannerForm.resources
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\QR Code Scanner\obj\Debug\QR Code Scanner.exe
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\QR Code Scanner\obj\Debug\QR Code Scanner.xml
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\QR Code Scanner\obj\Debug\QR Code Scanner.pdb
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\QR Code Scanner\bin\Debug\QR Code Scanner.exe
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\QR Code Scanner\bin\Debug\QR Code Scanner.pdb
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\QR Code Scanner\bin\Debug\QR Code Scanner.xml
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\QR Code Scanner\obj\Debug\QR Code Scanner.vbprojResolveAssemblyReference.cache
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\QR Code Scanner\obj\Debug\QR_Code_Scanner.ScannerForm.resources
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\QR Code Scanner\obj\Debug\QR_Code_Scanner.Resources.resources
+C:\Users\jgrubioe\Desktop\QR_Project\IC-INVENTOARIO\QR Code Scanner\obj\Debug\QR Code Scanner.vbproj.GenerateResource.Cache

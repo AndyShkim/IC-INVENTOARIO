@@ -28,11 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.picture_cam = new System.Windows.Forms.PictureBox();
-            this.textBox = new System.Windows.Forms.TextBox();
             this.btn_regresar = new System.Windows.Forms.Button();
             this.btn_init = new System.Windows.Forms.Button();
             this.devices_box = new System.Windows.Forms.ComboBox();
+            this.txtQR = new System.Windows.Forms.TextBox();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.picture_cam)).BeginInit();
             this.SuspendLayout();
             // 
@@ -46,13 +48,6 @@
             this.picture_cam.TabIndex = 1;
             this.picture_cam.TabStop = false;
             // 
-            // textBox
-            // 
-            this.textBox.Location = new System.Drawing.Point(29, 573);
-            this.textBox.Name = "textBox";
-            this.textBox.Size = new System.Drawing.Size(747, 26);
-            this.textBox.TabIndex = 2;
-            // 
             // btn_regresar
             // 
             this.btn_regresar.Location = new System.Drawing.Point(29, 615);
@@ -61,6 +56,7 @@
             this.btn_regresar.TabIndex = 3;
             this.btn_regresar.Text = "Regresar";
             this.btn_regresar.UseVisualStyleBackColor = true;
+            this.btn_regresar.Click += new System.EventHandler(this.btn_regresar_Click);
             // 
             // btn_init
             // 
@@ -80,15 +76,28 @@
             this.devices_box.Size = new System.Drawing.Size(213, 28);
             this.devices_box.TabIndex = 5;
             // 
+            // txtQR
+            // 
+            this.txtQR.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
+            this.txtQR.Location = new System.Drawing.Point(29, 574);
+            this.txtQR.Name = "txtQR";
+            this.txtQR.Size = new System.Drawing.Size(750, 26);
+            this.txtQR.TabIndex = 6;
+            // 
+            // timer1
+            // 
+            this.timer1.Interval = 1000;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
             // Fm_Lector
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(792, 665);
+            this.Controls.Add(this.txtQR);
             this.Controls.Add(this.devices_box);
             this.Controls.Add(this.btn_init);
             this.Controls.Add(this.btn_regresar);
-            this.Controls.Add(this.textBox);
             this.Controls.Add(this.picture_cam);
             this.Name = "Fm_Lector";
             this.Text = "Fm_Lector";
@@ -102,9 +111,10 @@
         #endregion
 
         internal System.Windows.Forms.PictureBox picture_cam;
-        private System.Windows.Forms.TextBox textBox;
         private System.Windows.Forms.Button btn_regresar;
         private System.Windows.Forms.Button btn_init;
         private System.Windows.Forms.ComboBox devices_box;
+        public System.Windows.Forms.TextBox txtQR;
+        private System.Windows.Forms.Timer timer1;
     }
 }

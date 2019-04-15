@@ -40,19 +40,20 @@
             // 
             // picture_cam
             // 
-            this.picture_cam.Location = new System.Drawing.Point(29, 14);
-            this.picture_cam.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.picture_cam.Location = new System.Drawing.Point(26, 11);
+            this.picture_cam.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.picture_cam.Name = "picture_cam";
-            this.picture_cam.Size = new System.Drawing.Size(750, 551);
+            this.picture_cam.Size = new System.Drawing.Size(667, 441);
             this.picture_cam.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.picture_cam.TabIndex = 1;
             this.picture_cam.TabStop = false;
             // 
             // btn_regresar
             // 
-            this.btn_regresar.Location = new System.Drawing.Point(29, 615);
+            this.btn_regresar.Location = new System.Drawing.Point(26, 492);
+            this.btn_regresar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btn_regresar.Name = "btn_regresar";
-            this.btn_regresar.Size = new System.Drawing.Size(146, 38);
+            this.btn_regresar.Size = new System.Drawing.Size(130, 30);
             this.btn_regresar.TabIndex = 3;
             this.btn_regresar.Text = "Regresar";
             this.btn_regresar.UseVisualStyleBackColor = true;
@@ -60,9 +61,10 @@
             // 
             // btn_init
             // 
-            this.btn_init.Location = new System.Drawing.Point(613, 615);
+            this.btn_init.Location = new System.Drawing.Point(545, 492);
+            this.btn_init.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btn_init.Name = "btn_init";
-            this.btn_init.Size = new System.Drawing.Size(146, 38);
+            this.btn_init.Size = new System.Drawing.Size(130, 30);
             this.btn_init.TabIndex = 4;
             this.btn_init.Text = "Iniciar";
             this.btn_init.UseVisualStyleBackColor = true;
@@ -71,17 +73,19 @@
             // devices_box
             // 
             this.devices_box.FormattingEnabled = true;
-            this.devices_box.Location = new System.Drawing.Point(270, 615);
+            this.devices_box.Location = new System.Drawing.Point(174, 492);
+            this.devices_box.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.devices_box.Name = "devices_box";
-            this.devices_box.Size = new System.Drawing.Size(213, 28);
+            this.devices_box.Size = new System.Drawing.Size(350, 24);
             this.devices_box.TabIndex = 5;
             // 
             // txtQR
             // 
             this.txtQR.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
-            this.txtQR.Location = new System.Drawing.Point(29, 574);
+            this.txtQR.Location = new System.Drawing.Point(26, 459);
+            this.txtQR.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtQR.Name = "txtQR";
-            this.txtQR.Size = new System.Drawing.Size(750, 26);
+            this.txtQR.Size = new System.Drawing.Size(667, 22);
             this.txtQR.TabIndex = 6;
             // 
             // timer1
@@ -91,14 +95,15 @@
             // 
             // Fm_Lector
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(792, 665);
+            this.ClientSize = new System.Drawing.Size(704, 532);
             this.Controls.Add(this.txtQR);
             this.Controls.Add(this.devices_box);
             this.Controls.Add(this.btn_init);
             this.Controls.Add(this.btn_regresar);
             this.Controls.Add(this.picture_cam);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Fm_Lector";
             this.Text = "Fm_Lector";
             this.Load += new System.EventHandler(this.Fm_Lector_Load);

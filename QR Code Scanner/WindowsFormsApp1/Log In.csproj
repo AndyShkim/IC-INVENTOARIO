@@ -79,11 +79,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Main Admin\Main Admin.csproj">
-      <Project>{656927CC-C3A7-40B6-84EA-98D799585E1E}</Project>
-      <Name>Main Admin</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -72,6 +72,9 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="Zen.Barcode.Core, Version=3.1.0.0, Culture=neutral, PublicKeyToken=b5ae55aa76d2d9de, processorArchitecture=MSIL">
+      <HintPath>..\QR Code Scanner\packages\Zen.Barcode.Rendering.Framework.3.1.10729.1\lib\Zen.Barcode.Core.dll</HintPath>
+    </Reference>
     <Reference Include="zxing, Version=0.14.0.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\QR Code Scanner\external libs\zxing.dll</HintPath>
@@ -96,11 +99,11 @@
     <Compile Include="Fm_main.Designer.cs">
       <DependentUpon>Fm_main.cs</DependentUpon>
     </Compile>
-    <Compile Include="Fm_admin.cs">
+    <Compile Include="Fm_Device.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Fm_admin.Designer.cs">
-      <DependentUpon>Fm_admin.cs</DependentUpon>
+    <Compile Include="Fm_Device.Designer.cs">
+      <DependentUpon>Fm_Device.cs</DependentUpon>
     </Compile>
     <Compile Include="GeneratorForm.cs">
       <SubType>Form</SubType>
@@ -119,14 +122,14 @@
     <EmbeddedResource Include="Fm_Datos.resx">
       <DependentUpon>Fm_datos.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Fm_Device.resx">
+      <DependentUpon>Fm_Device.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Fm_Lector.resx">
       <DependentUpon>Fm_Lector.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Fm_main.resx">
       <DependentUpon>Fm_main.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Fm_admin.resx">
-      <DependentUpon>Fm_admin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GeneratorForm.resx">
       <DependentUpon>GeneratorForm.cs</DependentUpon>
@@ -143,6 +146,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

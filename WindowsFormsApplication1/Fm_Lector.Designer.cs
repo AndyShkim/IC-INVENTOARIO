@@ -41,7 +41,7 @@
             // picture_cam
             // 
             this.picture_cam.Location = new System.Drawing.Point(26, 11);
-            this.picture_cam.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.picture_cam.Margin = new System.Windows.Forms.Padding(4);
             this.picture_cam.Name = "picture_cam";
             this.picture_cam.Size = new System.Drawing.Size(667, 441);
             this.picture_cam.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;

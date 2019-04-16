@@ -83,7 +83,9 @@ namespace WindowsFormsApplication1
 
         private void btn_regresar_Click(object sender, EventArgs e)
         {
-            txtQR.Text = "asdsasa";
+            WindowsFormsApplication1.Fm_main fm = new WindowsFormsApplication1.Fm_main();
+            fm.Show();
+            this.Hide();
         }
 
         private void timer1_Tick(object sender, EventArgs e)

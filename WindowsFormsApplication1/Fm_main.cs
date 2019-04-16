@@ -19,7 +19,9 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            WindowsFormsApplication1.Fm_Lector fm = new WindowsFormsApplication1.Fm_Lector();
+            fm.Show();
+            this.Hide();
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -29,7 +31,9 @@ namespace WindowsFormsApplication1
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            WindowsFormsApplication1.Fm_Lector fm = new WindowsFormsApplication1.Fm_Lector();
+            fm.Show();
+            this.Hide();
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -40,6 +44,27 @@ namespace WindowsFormsApplication1
         private void Form1_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void verToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            WindowsFormsApplication1.Fm_datos fm = new WindowsFormsApplication1.Fm_datos();
+            fm.Show();
+            this.Hide();
+        }
+
+        private void inventarioAnadir_Click(object sender, EventArgs e)
+        {
+            WindowsFormsApplication1.Fm_Device fm = new WindowsFormsApplication1.Fm_Device();
+            fm.Show();
+            this.Hide();
+        }
+
+        private void inventarioActualizar_Click(object sender, EventArgs e)
+        {
+            WindowsFormsApplication1.Fm_Device fm = new WindowsFormsApplication1.Fm_Device();
+            fm.Show();
+            this.Hide();
         }
     }
 }

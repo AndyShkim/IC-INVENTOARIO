@@ -25,14 +25,13 @@ namespace Qr_Code_Generator
             lastQrText = txtQr.Text;
             imgQr.Image = brcode.Draw(txtQr.Text, 50);
             existNewImage = true;
+            WindowsFormsApplication1.Fm_Device.idQr = txtQr.Text;
 
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            GeneratorForm frm = new GeneratorForm();
-            frm.Show();
-            this.Hide();
+  
         }
 
         private void btnSave_Click(object sender, EventArgs e)

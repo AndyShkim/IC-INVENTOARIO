@@ -37,3 +37,15 @@ C:\Users\nsdixonl\Documents\GitHub\IC-INVENTOARIO\WindowsFormsApplication1\obj\D
 C:\Users\nsdixonl\Documents\GitHub\IC-INVENTOARIO\WindowsFormsApplication1\obj\Debug\QR interface.csproj.CoreCompileInputs.cache
 C:\Users\nsdixonl\Documents\GitHub\IC-INVENTOARIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\nsdixonl\Documents\GitHub\IC-INVENTOARIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\avmoraca\Documents\IC Inventory\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\avmoraca\Documents\IC Inventory\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\avmoraca\Documents\IC Inventory\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\avmoraca\Documents\IC Inventory\WindowsFormsApplication1\obj\Debug\QR interface.csprojResolveAssemblyReference.cache
+C:\Users\avmoraca\Documents\IC Inventory\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Fm_datos.resources
+C:\Users\avmoraca\Documents\IC Inventory\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Fm_Lector.resources
+C:\Users\avmoraca\Documents\IC Inventory\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Fm_main.resources
+C:\Users\avmoraca\Documents\IC Inventory\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\avmoraca\Documents\IC Inventory\WindowsFormsApplication1\obj\Debug\Qr_Code_Generator.GeneratorForm.resources
+C:\Users\avmoraca\Documents\IC Inventory\WindowsFormsApplication1\obj\Debug\WindowsFormsApp1.LogInForm.resources
+C:\Users\avmoraca\Documents\IC Inventory\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\avmoraca\Documents\IC Inventory\WindowsFormsApplication1\obj\Debug\QR interface.csproj.GenerateResource.Cache

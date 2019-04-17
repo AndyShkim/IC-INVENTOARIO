@@ -29,7 +29,6 @@ C:\Users\nsdixonl\Documents\GitHub\IC-INVENTOARIO\WindowsFormsApplication1\obj\D
 C:\Users\nsdixonl\Documents\GitHub\IC-INVENTOARIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Fm_datos.resources
 C:\Users\nsdixonl\Documents\GitHub\IC-INVENTOARIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Fm_Lector.resources
 C:\Users\nsdixonl\Documents\GitHub\IC-INVENTOARIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Fm_main.resources
-C:\Users\nsdixonl\Documents\GitHub\IC-INVENTOARIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\nsdixonl\Documents\GitHub\IC-INVENTOARIO\WindowsFormsApplication1\obj\Debug\Qr_Code_Generator.GeneratorForm.resources
 C:\Users\nsdixonl\Documents\GitHub\IC-INVENTOARIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApp1.LogInForm.resources
 C:\Users\nsdixonl\Documents\GitHub\IC-INVENTOARIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources

@@ -1,4 +1,4 @@
-﻿namespace Main_Admin
+﻿namespace WindowsFormsApplication1
 {
     partial class LogInForm
     {
@@ -112,6 +112,7 @@
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "LogInForm";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.LogInForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

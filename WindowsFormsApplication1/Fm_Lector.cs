@@ -90,5 +90,10 @@ namespace WindowsFormsApplication1
         {
             txtQR.Text = data;
         }
+
+        private void picture_cam_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

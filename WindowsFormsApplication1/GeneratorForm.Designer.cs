@@ -76,6 +76,7 @@
             this.imgQr.Size = new System.Drawing.Size(284, 272);
             this.imgQr.TabIndex = 4;
             this.imgQr.TabStop = false;
+            this.imgQr.Click += new System.EventHandler(this.imgQr_Click);
             // 
             // button1
             // 
@@ -113,6 +114,7 @@
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "GeneratorForm";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.GeneratorForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.imgQr)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

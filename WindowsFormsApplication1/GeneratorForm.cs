@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using ZXing;
 
 namespace Qr_Code_Generator
 {
@@ -52,6 +53,16 @@ namespace Qr_Code_Generator
             catch {
                 MessageBox.Show("Ha ocurrido un error al guardar el QR", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+        }
+
+        private void GeneratorForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void imgQr_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

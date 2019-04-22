@@ -1,5 +1,4 @@
-﻿using Main_Admin;
-using MySql.Data.MySqlClient;
+﻿using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -10,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Main_Admin
+namespace WindowsFormsApplication1
 {
 
   
@@ -27,17 +26,28 @@ namespace Main_Admin
         private void button1_Click(object sender, EventArgs e)
         {
 
-            string connStr = "server=localhost;user id=root;persistsecurityinfo=True;database=inventario_ic";
-            MySqlConnection conn = new MySqlConnection(connStr);
+            MySqlConnection conn = new MySqlConnection("server = localhost; user id = root; persistsecurityinfo = True; database = inventario_ic");
             conn.Open();
 
-            string val1 = textBox1.Text;
 
-            string sql = "Select WWID From User Where WWID=@pwwid";
-            sql.Parameters.AddWithValue("@pwwid", val1);
+            MySqlCommand code = new MySqlCommand();
+            MySqlConnection conect = new MySqlConnection();
+            code.Connection = conn;
 
-            MySqlCommand cmd = new MySqlCommand(sql, conn);
-            MySqlDataReader rdr = cmd.ExecuteReader();
+            code.CommandText = ("Select * from user Where WWID = '" + textBox1 + "' and password = '" + textBox2 + "' ");
+
+            MySqlDataReader rdr = code.ExecuteReader();
+            if (rdr.Read())
+            {
+                MessageBox.Show("Welcome");
+            }
+            else
+            {
+                MessageBox.Show("Incorrect WWID or password");
+            }
+
+            conn.Close();
+
 
         }
 
@@ -47,6 +57,11 @@ namespace Main_Admin
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void LogInForm_Load(object sender, EventArgs e)
         {
 
         }
